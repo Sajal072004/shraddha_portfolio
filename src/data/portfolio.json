@@ -1,0 +1,278 @@
+{
+  "personal": {
+    "name": "Shraddha Namdeo",
+    "title": "Social Media Executive",
+    "tagline": "Crafting Digital Stories That Roam Wild",
+    "location": "Bangalore, Karnataka",
+    "email": "namdeo.shraddha83@gmail.com",
+    "phone": "+91 9098184225",
+    "social": {
+      "linkedin": "https://linkedin.com/in/shraddha-namdeo",
+      "instagram": "@chal_musafir",
+      "twitter": ""
+    }
+  },
+  "about": {
+    "summary": "Results-driven Social Media Executive with 3+ years of experience managing digital campaigns, content strategy, and brand engagement across LinkedIn, Twitter, Instagram, Facebook, and YouTube. Skilled in developing data-driven marketing plans, building strong influencer networks, and driving measurable audience growth. Passionate about crafting creative storytelling that aligns with organizational goals and enhances brand visibility.",
+    "highlights": [
+      "40% increase in engagement across all platforms",
+      "300% growth in organic reach for client brands",
+      "Led 20+ successful paid campaigns",
+      "Built thriving influencer partnerships"
+    ]
+  },
+  "skills": [
+    {
+      "category": "Social Media Management",
+      "items": [
+        "Content Strategy",
+        "Campaign Planning",
+        "Influencer Outreach",
+        "Audience Engagement",
+        "Analytics Tracking"
+      ]
+    },
+    {
+      "category": "Digital Marketing",
+      "items": [
+        "Brand Storytelling",
+        "Online Reputation Management (ORM)",
+        "Post Boost",
+        "SEO and SEM initiatives"
+      ]
+    },
+    {
+      "category": "Content Creation",
+      "items": [
+        "Photography",
+        "Video Editing",
+        "Graphic Design",
+        "Copywriting",
+        "Creative Direction"
+      ]
+    },
+    {
+      "category": "Tools & Platforms",
+      "items": [
+        "Canva",
+        "Adobe Premiere Pro",
+        "Adobe Lightroom",
+        "Generative AI tools",
+        "Hootsuite",
+        "Meta Business Suite"
+      ]
+    },
+    {
+      "category": "Soft Skills",
+      "items": [
+        "Communication",
+        "Collaboration",
+        "Leadership",
+        "Event Hosting & Coordination",
+        "Time Management",
+        "Analytical Thinking"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "CloudThat Technologies",
+      "role": "Social Media Executive",
+      "location": "Bangalore, Karnataka",
+      "period": "Sep 2022 – Present",
+      "current": true,
+      "achievements": [
+        "Managed and optimized brand presence across LinkedIn, Twitter, Facebook, Instagram, and YouTube, achieving a 40% increase in engagement and follower growth",
+        "Executed creative campaigns, giveaways, and hackathons, driving significant online traction and audience participation",
+        "Led influencer partnerships and collaborations, enhancing brand credibility within the tech and education domains",
+        "Hosted interactive LinkedIn Live sessions, Twitter Spaces, and in-house office events to foster brand-community relationships",
+        "Utilized analytics tools to monitor KPIs, evaluate campaign performance, and provide actionable marketing insights",
+        "Mentored interns, promoting a culture of creativity, teamwork, and content excellence"
+      ]
+    },
+    {
+      "company": "upGrad Rekrut",
+      "role": "Talent Acquisition Intern",
+      "location": "Remote",
+      "period": "Jan 2022 – Jul 2022",
+      "current": false,
+      "achievements": [
+        "Collaborated with hiring managers to identify staffing needs and source qualified candidates",
+        "Supported placement assistance for students, improving candidate readiness and interview performance",
+        "Conducted screening calls and initial assessments to streamline the recruitment process"
+      ]
+    },
+    {
+      "company": "A1 Academy",
+      "role": "Social Media Marketer",
+      "location": "Jabalpur, MP",
+      "period": "Jan 2021 – Dec 2021",
+      "current": false,
+      "achievements": [
+        "Led a 2-member team to execute 20+ paid social media campaigns, achieving substantial increases in lead generation",
+        "Implemented creative marketing strategies to enhance audience engagement and brand reach",
+        "Contributed to content design and execution of promotional visuals, improving campaign ROI and conversion"
+      ]
+    },
+    {
+      "company": "NutriRasoi",
+      "role": "Freelancing",
+      "location": "Jabalpur, MP",
+      "period": "Apr 2020 – Jan 2021",
+      "current": false,
+      "achievements": [
+        "Created engaging digital content across Instagram and Facebook, leading to a 300% growth in engagement",
+        "Directed photoshoots and cinematography for creative campaigns to enhance product storytelling",
+        "Executed data-driven content research to optimize visual and messaging strategies"
+      ]
+    },
+    {
+      "company": "A1 Academy",
+      "role": "Manager",
+      "location": "Jabalpur, MP",
+      "period": "May 2016 – May 2020",
+      "current": false,
+      "achievements": [
+        "Supervised admissions, student records, and staff coordination for 450+ students, ensuring efficient operations",
+        "Led and motivated a team of 10 teachers and staff to improve productivity and learning outcomes"
+      ]
+    }
+  ],
+  "works": [
+    {
+      "title": "CloudThat Brand Campaign",
+      "description": "Multi-platform social media campaign driving 40% engagement growth",
+      "category": "Social Media Campaign",
+      "image": "placeholder-1.jpg",
+      "link": ""
+    },
+    {
+      "title": "Tech Influencer Partnership",
+      "description": "Strategic collaboration with tech influencers for brand awareness",
+      "category": "Influencer Marketing",
+      "image": "placeholder-2.jpg",
+      "link": ""
+    },
+    {
+      "title": "LinkedIn Live Series",
+      "description": "Interactive live sessions fostering community engagement",
+      "category": "Content Creation",
+      "image": "placeholder-3.jpg",
+      "link": ""
+    },
+    {
+      "title": "NutriRasoi Content Strategy",
+      "description": "300% engagement growth through creative storytelling",
+      "category": "Content Strategy",
+      "image": "placeholder-4.jpg",
+      "link": ""
+    },
+    {
+      "title": "Hackathon Campaign",
+      "description": "Event promotion driving massive online participation",
+      "category": "Event Marketing",
+      "image": "placeholder-5.jpg",
+      "link": ""
+    },
+    {
+      "title": "A1 Academy Lead Generation",
+      "description": "20+ paid campaigns achieving exceptional ROI",
+      "category": "Paid Advertising",
+      "image": "placeholder-6.jpg",
+      "link": ""
+    }
+  ],
+  "socialMediaPosts": [
+    {
+      "title": "CloudThat AWS Workshop",
+      "description": "Engaging post about cloud computing workshop with interactive elements",
+      "platform": "LinkedIn",
+      "image": "post-screenshot-1.jpg",
+      "link": "https://linkedin.com",
+      "engagement": "2.5K likes"
+    },
+    {
+      "title": "Tech Tuesday Tips",
+      "description": "Weekly series sharing valuable tech insights and industry trends",
+      "platform": "Instagram",
+      "image": "post-screenshot-2.jpg",
+      "link": "https://instagram.com",
+      "engagement": "1.8K likes"
+    },
+    {
+      "title": "NutriRasoi Recipe Reel",
+      "description": "Viral cooking reel showcasing healthy and delicious recipes",
+      "platform": "Instagram",
+      "image": "post-screenshot-3.jpg",
+      "link": "https://instagram.com",
+      "engagement": "5.2K views"
+    },
+    {
+      "title": "A1 Academy Success Story",
+      "description": "Student testimonial highlighting transformation journey",
+      "platform": "Facebook",
+      "image": "post-screenshot-4.jpg",
+      "link": "https://facebook.com",
+      "engagement": "980 shares"
+    },
+    {
+      "title": "Industry Insights Thread",
+      "description": "Detailed Twitter thread on social media marketing trends",
+      "platform": "Twitter",
+      "image": "post-screenshot-5.jpg",
+      "link": "https://twitter.com",
+      "engagement": "450 retweets"
+    },
+    {
+      "title": "Behind The Scenes",
+      "description": "Day in the life content showing authentic work culture",
+      "platform": "Instagram",
+      "image": "post-screenshot-6.jpg",
+      "link": "https://instagram.com",
+      "engagement": "3.1K likes"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Management, Lucknow",
+      "degree": "Executive General Management Program",
+      "location": "Online",
+      "period": "Jan 2024 – Mar 2025"
+    },
+    {
+      "institution": "UpGrad & MICA",
+      "degree": "PG Certification in Digital Marketing",
+      "location": "Online",
+      "period": "Sep 2020 – Oct 2021"
+    },
+    {
+      "institution": "Raja Mansingh Tomar Music & Arts University",
+      "degree": "Master of Arts",
+      "location": "Jabalpur, MP",
+      "period": "Apr 2019 – May 2021"
+    },
+    {
+      "institution": "Mata Gujri Women's College",
+      "degree": "Bachelor of Arts",
+      "location": "Jabalpur, MP",
+      "period": "Apr 2015 – Mar 2019"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Google Ads Display Certification",
+      "issuer": "Google",
+      "year": "2021"
+    },
+    {
+      "name": "HubSpot Social Media Marketing Certification",
+      "issuer": "HubSpot Academy",
+      "year": "2021"
+    },
+    {
+      "name": "Advanced SEO Strategy",
+      "issuer": "UpGrad",
+      "year": "2021"
+    }
+  ]
+}

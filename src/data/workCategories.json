@@ -1,0 +1,227 @@
+{
+  "categories": [
+    {
+      "id": "brand-campaign",
+      "title": "Brand Campaign",
+      "description": "Strategic social media campaigns driving engagement and brand awareness",
+      "coverImage": "/images/work-categories/brand-campaign-cover.png",
+      "icon": "megaphone",
+      "posts": [
+        {
+          "id": "bc-001",
+          "title": "ChatGPT Go Integration",
+          "description": "Informing about free chatgpt go integration for seamless AI interactions",
+          "image": "/images/work-posts/brand-campaign/bc-001.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/DRKKWGiiXL-/?igsh=aWF5NmRpZHZjbDVy&wa_logging_event=video_play_open",
+          "date": "2024-11-15",
+          "engagement": {
+            "likes": 2500,
+            "comments": 180,
+            "shares": 420
+          }
+        },
+        {
+          "id": "bc-002",
+          "title": "Azure Data Fundamentals Course",
+          "description": "Promoting new course with engaging content",
+          "image": "/images/work-posts/brand-campaign/bc-002.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/DNU4XBpBBlO/?igsh=bmtneDU5cGJnampn",
+          "date": "2024-10-28",
+          "engagement": {
+            "likes": 3200,
+            "comments": 240,
+            "shares": 580
+          }
+        },
+        {
+          "id": "bc-003",
+          "title": "Microsoft security applied skills",
+          "description": "Strategic partnership driving brand credibility",
+          "image": "/images/work-posts/brand-campaign/bc-003.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/DLmjvWdh12p/?igsh=MWNlbW8xbHJraXBrNQ==",
+          "date": "2024-10-10",
+          "engagement": {
+            "likes": 4100,
+            "comments": 320,
+            "shares": 710
+          }
+        },
+        {
+          "id": "bc-004",
+          "title": "Data and AI course",
+          "description": "Details about the Data and AI course to attract enrollments",
+          "image": "/images/work-posts/brand-campaign/bc-004.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/DJtXDX-Bq4h/?igsh=c3Jtczg0azFjMXd5",
+          "date": "2024-09-22",
+          "engagement": {
+            "likes": 1800,
+            "comments": 150,
+            "shares": 390
+          }
+        },
+        {
+          "id": "bc-005",
+          "title": "Cloud and Devops Skills",
+          "description": "Festive campaign with creative storytelling",
+          "image": "/images/work-posts/brand-campaign/bc-005.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/DI1AbQfhbOM/?igsh=cGpnaXY5YWxoZXZ0",
+          "date": "2024-12-01",
+          "engagement": {
+            "likes": 5200,
+            "comments": 410,
+            "shares": 920
+          }
+        },
+        {
+          "id": "bc-006",
+          "title": "Applied Security Skills",
+          "description": "Workshop promotion to enhance security skills",
+          "image": "/images/work-posts/brand-campaign/bc-006.png",
+          "platform": "LinkedIn",
+          "link": "https://www.instagram.com/reel/DGkNLWMBVkc/?igsh=MXFvNXBjZ282bXBmNQ==",
+          "date": "2024-11-05",
+          "engagement": {
+            "likes": 1950,
+            "comments": 125,
+            "shares": 310
+          }
+        }
+      ]
+    },
+    {
+      "id": "video-editing",
+      "title": "Video Editing",
+      "description": "Creative video content for reels, shorts, and promotional videos",
+      "coverImage": "/images/work-categories/video-editing-cover.png",
+      "icon": "video",
+      "posts": [
+        {
+          "id": "ve-001",
+          "title": "Microsoft Training Services Partner",
+          "description": "Microsoft Training Services Partner of the Year Award 2024.",
+          "image": "/images/work-posts/video-editing/ve-001.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/C9XFgPaCarA/?igsh=NzF2YmVoZzh4NGRi",
+          "date": "2024-11-20",
+          "engagement": {
+            "views": 15000,
+            "likes": 3400,
+            "comments": 180
+          }
+        },
+        {
+          "id": "ve-002",
+          "title": "Ganesh Chaturthi Reel",
+          "description": "Ganesh Chaturthi celebration reel with vibrant visuals",
+          "image": "/images/work-posts/video-editing/ve-002.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/C_pb95vScQj/?igsh=cjc3dmNteTEzYndp",
+          "date": "2024-11-08",
+          "engagement": {
+            "views": 12500,
+            "likes": 2800,
+            "comments": 145
+          }
+        },
+        {
+          "id": "ve-003",
+          "title": "Onam Celebration Reel",
+          "description": "Onam celebration in the office with traditional vibes",
+          "image": "/images/work-posts/video-editing/ve-003.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/C_5Qx9zyk3x/?igsh=MXFnOWdmcDJjeG56YQ==",
+          "date": "2024-10-15",
+          "engagement": {
+            "views": 28000,
+            "likes": 5200,
+            "comments": 380
+          }
+        },
+        {
+          "id": "ve-004",
+          "title": "Navratri Celebration",
+          "description": "Professional event recap video",
+          "image": "/images/work-posts/video-editing/ve-004.png",
+          "platform": "LinkedIn",
+          "link": "https://www.instagram.com/reel/DAx42rZywE8/?igsh=aHJ2YmF5bWkxb3No",
+          "date": "2024-09-30",
+          "engagement": {
+            "views": 8500,
+            "likes": 1200,
+            "comments": 85
+          }
+        },
+        {
+          "id": "ve-005",
+          "title": "Garba Groove",
+          "description": "Garba celebration dance video capturing festive spirit",
+          "image": "/images/work-posts/video-editing/ve-005.png",
+          "platform": "LinkedIn",
+          "link": "https://www.instagram.com/reel/DBEBv7USNvo/?igsh=aWd1eGRldWp3OXZk",
+          "date": "2024-11-12",
+          "engagement": {
+            "views": 10200,
+            "likes": 1800,
+            "comments": 120
+          }
+        },
+        {
+          "id": "ve-006",
+          "title": "Diwali celebration in office",
+          "description": "Diwali celebration highlights and festivities",
+          "image": "/images/work-posts/video-editing/ve-006.png",
+          "platform": "Instagram",
+          "link": "https://www.instagram.com/reel/DB0Vm9GybHl/?igsh=MTZ0NXdnNzVwOTZ1Zg==",
+          "date": "2024-10-25",
+          "engagement": {
+            "views": 18500,
+            "likes": 4100,
+            "comments": 210
+          }
+        }
+      ]
+    },
+    {
+      "id": "hosting",
+      "title": "Hosting",
+      "description": "Professional hosting for LinkedIn Lives, events, and Twitter Spaces",
+      "coverImage": "/images/work-categories/hosting-cover.png",
+      "icon": "mic",
+      "posts": [
+        {
+          "id": "h-001",
+          "title": "LinkedIn Live: Microsoft AI Tour 2025",
+          "description": "Hosted LinkedIn Live session covering highlights from the Microsoft AI Tour 2025.",
+          "image": "/images/work-posts/hosting/h-001.png",
+          "platform": "LinkedIn",
+          "link": "https://www.linkedin.com/posts/cloudthat_unforgettable-moments-from-the-2025-microsoft-activity-7283007172341313537-3Tya/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVXUq0Ba7ZjzuqPQYKQ4z5sf3fIbXl8llQ",
+          "date": "2024-11-18",
+          "engagement": {
+            "viewers": 850,
+            "likes": 320,
+            "comments": 95
+          }
+        },
+        {
+          "id": "h-002",
+          "title": "The Skill Ignite Summit '24",
+          "description": "Hosted Skill Ignite Summit 2024, engaging audience with insightful discussions on skill development and industry trends.",
+          "image": "/images/work-posts/hosting/h-002.png",
+          "platform": "LinkedIn",
+          "link": "https://www.linkedin.com/video/live/urn:li:ugcPost:7220332939069333504/",
+          "date": "2024-11-05",
+          "engagement": {
+            "viewers": 420,
+            "likes": 180,
+            "comments": 45
+          }
+        }
+      ]
+    }
+  ]
+}
